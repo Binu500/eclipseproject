@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-07T15:17:20 IST" name="Default suite" finished-at="2023-11-07T15:17:29 IST" duration-ms="9638">
+    <groups>
+    </groups>
+    <test started-at="2023-11-07T15:17:20 IST" name="Default test" finished-at="2023-11-07T15:17:29 IST" duration-ms="9638">
+      <class name="pagepkg.Amazonpgm">
+        <test-method is-config="true" signature="setup()[pri:0, instance:pagepkg.Amazonpgm@13e344d]" started-at="2023-11-07T15:17:20 IST" name="setup" finished-at="2023-11-07T15:17:26 IST" duration-ms="5691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test()[pri:0, instance:pagepkg.Amazonpgm@13e344d]" started-at="2023-11-07T15:17:26 IST" name="test" finished-at="2023-11-07T15:17:29 IST" duration-ms="3886" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- pagepkg.Amazonpgm -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
